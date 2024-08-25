@@ -10,7 +10,7 @@ The optimization process focuses on enhancing the performance of the Univector C
 
 ![Project Photo](SimulatorWithoutButtons.png)
 
-Simulator image, where the optimizations run
+Images of the simulator where the optimization ran.
 
 ## Univector Field 
 
