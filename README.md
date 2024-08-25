@@ -23,7 +23,7 @@ Images of the simulator where the optimization ran.
 
 ## Confidentiality
 
-Please note that the entire project is not public. The methods, results, and the paper describing the process are intended for internal use within the ITAndroids team.
+Please note that the entire project is not public. The paper describing the process and results is intended to provide an overview without revealing the entire code.
 
 ## Contact
 
